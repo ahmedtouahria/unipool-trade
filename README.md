@@ -1,1 +1,1 @@
-# unipool-trade
+# go-unipool
